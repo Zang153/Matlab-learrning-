@@ -1,6 +1,6 @@
 % Coursework for AERO70016/ AERO97079 Orbital Mechanics 
 % Date: March 17th, 2023
-% Programmed by: Yunxiao Zang
+% Programmed by: YX Zang
 % Script: Orbital_cw.m
 % This script mainly defines two functions to achieve Cowell's method and
 % Encke's method.
